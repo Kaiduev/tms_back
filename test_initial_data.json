@@ -1,0 +1,180 @@
+[
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 1",
+            "description": "Test task 1",
+            "status": "new",
+            "priority": "low",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 2",
+            "description": "Test task 2",
+            "status": "in_progress",
+            "priority": "medium",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 3",
+            "description": "Test task 3",
+            "status": "completed",
+            "priority": "high",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 4",
+            "description": "Test task 4",
+            "status": "new",
+            "priority": "low",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 5",
+            "description": "Test task 5",
+            "status": "in_progress",
+            "priority": "medium",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 6",
+            "description": "Test task 6",
+            "status": "completed",
+            "priority": "high",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 7",
+            "description": "Test task 7",
+            "status": "new",
+            "priority": "low",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 8",
+            "description": "Test task 8",
+            "status": "in_progress",
+            "priority": "medium",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 9",
+            "description": "Test task 9",
+            "status": "completed",
+            "priority": "high",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 10",
+            "description": "Test task 10",
+            "status": "new",
+            "priority": "low",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 11",
+            "description": "Test task 11",
+            "status": "in_progress",
+            "priority": "medium",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 12",
+            "description": "Test task 12",
+            "status": "completed",
+            "priority": "high",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 13",
+            "description": "Test task 13",
+            "status": "new",
+            "priority": "low",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 14",
+            "description": "Test task 14",
+            "status": "in_progress",
+            "priority": "medium",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "fields": {
+            "title": "Task 15",
+            "description": "Test task 15",
+            "status": "completed",
+            "priority": "high",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-01-15"
+        }
+    },
+    {
+        "model": "auth.user",
+        "fields": {
+            "username": "user4",
+            "email": "",
+            "first_name": "",
+            "last_name": "",
+            "password": "pbkdf2_sha256$870000$xoRG8eHpT2o06DpdLewI9H$iRV9/vjHRawELjOGXT8kF+ORAKvS8Kj9aQZ/HrNv7Dc=",
+            "is_active": true,
+            "is_staff": true,
+            "is_superuser": true
+        }
+    }
+]
